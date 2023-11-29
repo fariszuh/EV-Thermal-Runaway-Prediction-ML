@@ -8,6 +8,7 @@ Program Kreativitas Mahasiswa - Karsa Cipta (PKM-KC 2022)
 
 Gambar 1. Foto Alat
 
+
 ## Our Team
 
 <img src="Dokumen Resmi/Dokumentasi Alat/foto_setelah_pkp2.png" alt="Foto Setelah PKP2" width=400 />
@@ -61,3 +62,6 @@ Hasil yang didapat adalah sangat baik, dimana semakin banyak epoch maka loss sem
 
 ## Dokumentasi Video Presentasi
 https://www.youtube.com/watch?v=blGbFs8lXC4&ab_channel=DirektoratKemahasiswaanITS
+
+### Disclaimer
+Source code isn't well documented and limited, so if you're interested to improving this research, it will be better.
