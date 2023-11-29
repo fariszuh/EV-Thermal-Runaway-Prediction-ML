@@ -1,0 +1,34 @@
+Timeline
+Bobot
+Metode Test; 
+	Kondisi Awal; ngikut kondisi dapet batt,(btuh rangkaian discharge), 3.3V, 10Ah
+	Apa yang kita lakuin untuk memicu thermal runaway;	
+	Indikator Capaian;
+	Kondisi saat Capaian;
+	Keamanan;
+	Alat; kuantitas baterai, metode pengukuran
+	Lokasi; 
+	Waktu;
+Meet sama expert
+Penggalangan Dana
+Pembelian alat
+Perijinan Tempat; sekitar molina
+Meet sama pak pur; lapor progress, konsul metode, konsul alat, konsul tempat
+Apa yang mau diisi di laporan kemajuan monev
+Topik bahasan saat monev
+Summary apa yang perlu dikerjakan
+Pembagian Tugas
+
+1. Studi literatur harus mencakup kondisi baterai awal, kapasitas baterai awal,; mas rafly, 
+	indikator capaian, kondisi capaian, arus untuk sensor, keamanan
+2. Rangkaian discharge; mas faris
+3. Cari Dosen Yang tau atau Dosen yang ngerti PKM; rafy
+4. Jadwalin meet sama Pak Pur dan Dosen yang tau; rafy
+5. Ngisi logbook; frecia
+6. Nyelesain kurva S; frecia
+7. U/ Monev, isi Laporan Kemajuan; frecia
+8. Siapin pertanyaan konsul; mas rafly, mas faris, rafy
+9. Dokumentasi metode sekarang; ariel, mas rafly
+10. Sambil cari alat yang kurang; Mas Faris
+11. Studi literatur pemakaian metode; Ariel
+12. Bikin program esp sesuai sensor yang ada; Mas faris

@@ -1,0 +1,47 @@
+buat diagram s untuk liatin ke pak pur, konsul porsi kerja
+konsul studi literatur ke pak pur
+mulai beli dan nyiapin alatnya
+rafly: kita masih bingung untuk simulasinya, studi literatur didetailin ke konsep praktisnya. 
+seperti urutan" dan disambungin ke diagram s.
+kita dokum dulu langkah simulasinya
+tentuin langkah trainingnya
+
+bisa coba di simulink, tp perlu didetailin apa yang mau dilakuin di simulink
+di simulink ada perlakuan khusus thermal runaway
+kalau neural network butuh training cmn kalau mau training model, butuh dataset
+untuk thermal runaway datasetnya sulit dan ga mungkin buat sendiri
+ngambil data untuk nguji model kita
+kalau dataset ga cukup bakal kacau
+
+dataset bisa diambil dari internet, variabel yang diperlukan cukup 3 vairabel yang mau dimonitor
+ada 2 pendekatan nn, ada yang berbasis persamaan dan ada yang berbasis data
+
+faris: setuju g kalau kita ngumpulin data b
+dibuat pengujian 
+f: untuk pengujian, cmn perlu bbrp persen untuk training, kita harus nyari korelasi antarvariabel
+nanti dibuat cnn, baru kita testing sisa dataset yang belum kita pake
+
+kalau kita mau nyari model, kita harus tau sistemnya gmn, kita liat dulu variabel dan nyoba. kita siapin tempat untuk testing
+prototypenya kita pakai baterai yg didalam kardus, kita tempel 8 ntc, dari ntc diliat voltage dan currentnya. lalu dikirim beserta timestamp
+
+masalah beban agak krusial, bebannya resistif, untuk valuenya bgg, akan berhubunguan dengan proses precharge dischargenya. 
+sebisa mungkin kalau value masih bisa ditolelir kita bisa ambil banyak data
+
+1 siklus pak alief itu 
+waktu discharge 40 menit, karena charging pakai sola jd lama
+6Ah
+
+yang poach 20Ah 3.3V, kita ga cuman pakai 1, 
+masalah collecting data aman
+
+perlu bikin model training dulu
+
+kita udah punya device, jadi kita minjem
+ada raspi tp punya lab, setelah demo hari jumat mingdep
+utk prototype:
+proto collecting
+proto agar test tidak manual( siapkan tempatnya, bagian sel kita kasih ntc, kita buat rangkaian sederhana untuk ke mikro,
+pakai esp aja karena bisa wifi, upload ke database (mysql))
+bagian control: saat satu siklus pakai if else saat voltage dah berkurang, relay dieksekusi untuk switch kondisi charging dan discharge
+proto untuk pengolahan data (kita harus nyocokin data yang diambil (model untuk ngetest data yang udah didapatkan))
+kalau belum ada data, kita pakai datadummy modelling

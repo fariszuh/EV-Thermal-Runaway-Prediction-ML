@@ -1,0 +1,21 @@
+- Motor Controller 1x	(Punya Mas Rafly)
+- BLDC Motor 1-4x		(Punya Mas Rafy + Pinjem atau beli lagi kalau kurang)
+- LiFePO4 6Ah Battery 5x(Beli di toko kemarin)
+- Holder 2x			(Beli di toko kemarin)
+- Nickel strip 1x		(Beli di toko kemarin)
+- Insulation Paper 5x	(Beli di toko kemarin)
+- ESP32 1x			(Pinjem yang ada di Bengkel dulu)
+- Current Sensor 1x	(Pake punya bspd dulu)
+- Voltage Sensor 3x	(Beli)
+- NTC Thermistor Rp.5000(Beli)
+- IR Temp Sensor 1x	(Beli)
+- 12V Adaptor Supply 1x	(Beli)
+- 5V Voltage Regulator Circuit 1x (Beli)
+- Resistor 100 Ohm .... Watt (Beli di genteng)
+- Alternatif Kontaktor??
+- Kabel HV (Minjem)
+- AWG yang support s.d +- 50A (Beli)
+
+Yang belum bisa dibeli
+- Enclosure (Belum ada desainnya)
+- PCB (Belum ada desainnya)

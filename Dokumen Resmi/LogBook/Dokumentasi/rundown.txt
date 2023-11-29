@@ -1,0 +1,37 @@
+Start 8.00
+
+Fiksasi Metode pengambilan Data
+	External Short Circuit atau Overdischarge?; cari jurnal yg mirip dan liat nilai arusnya; controller ada pengamannya; tentuin thermal runaway
+	Tipe Baterai dan Kapasitas Baterai yang digunakan
+	Apa yang kita lakuin untuk memicu thermal runaway;
+	Indikator Capaian;
+	Rangkaian;
+	Jumlah Data
+	Keamanan;
+	Alat;
+	Lokasi
+	Waktu
+Penggalangan Dana
+Pembelian Alat
+Studi Literatur Neural Network
+	Parameter Tambahan yang diperlukan
+Visualisasi Alat
+	Peletakan Sensor
+	Diagram atau Schematic Baterai
+	Pengintegrasian Sensor
+
+
+
+Ariel Rafly Studi Literatur Neural Network
+Faris 	Program Pengambilan Data
+Rafy		Pembelian Alat dan Perangkaian Alat
+Frecia 	Selesain Diagram S
+		Surat Izin Peminjaman Alat
+		LogBook Tanggal 1 - 17 Juni
+		Laporan Kemajuan
+
+rafy		Pemilihan Controller, Motor
+ariel, rafy	Cara stepping arus saat overdischarge
+ariel, rafy	nilai arus yang diperlukan saat overdischarge
+		rangkai enclosurenya
+		Dokumentasi fiksasi metode penelitian

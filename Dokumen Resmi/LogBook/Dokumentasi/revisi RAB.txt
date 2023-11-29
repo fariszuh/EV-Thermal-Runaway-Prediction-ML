@@ -1,0 +1,55 @@
+anggaran lama 	7.000.000 + 1.650.000 = 8.650.000
+target anggaran	6.200.000 + 1.750.000 = 7.950.000
+
+Belanja bahan (60%)
+	Jatah Anggaran lama 	= 5.190.000
+	Ajuan lama			= 5.067.500
+	Jatah Anggaran Baru 	= 4.770.000
+	Pengurangan			= - 297.000
+		Ajuan Rafy 3 Juni:
+		- Tetep pakai raspi
+		- Timah Solder dikurangi harga 35.000/unit
+			174.000 -> 70.000		= + 104.000
+		- Active Buzzer dikurangi harga 25.000/unit
+			197.500 -> 25.000		= + 147.500
+		- Heatsink Alumnium 5 unit -> 3 unit
+			95.000 -> 57.000		= + 38.000
+		- Akrilik 232.500 -> 225.000	= + 7.500
+
+Belanja Sewa (maks. 15%)
+	Jatah Anggaran lama 	= 1.297.500
+	Ajuan lama			= 1.033.000
+	Jatah Anggaran Baru 	= 1.192.500
+	Pengurangan			= + 159.000
+		Ajuan Rafy 3 Juni:
+		- Jasa Cetak PCB = 54.250/cetak, 2 kali cetak -> 4 kali cetak
+				= - 159.000
+
+
+Perjalanan lokal (maks. 30 %)
+	Jatah Anggaran lama 	= 2.595.000
+	Ajuan lama			= 1.524.500
+	Jatah Anggaran Baru 	= 2.385.000
+	Pengurangan			= + 861.000
+		Ajuan Rafy 3 Juni:
+			- Pertamax bukan 9k wkwk
+			- Pertamax 9.000/liter -> 12.500/liter, 30 liter
+				= - 285.000
+			- Bensin tiap anak 12.500/liter, total 70 liter
+				= - 280.000
+			- Perjalanan lainnya diganti ke 12.500/liter
+				= - 28.000
+			- Ongkir 22.500 -> 40.000
+				= - 262.500
+			- sisa 11k
+
+
+Lain-lain (maks. 15 %)
+	Jatah Anggaran lama 	= 1.297.500
+	Ajuan lama			= 1.025.000
+	Jatah Anggaran Baru 	= 1.192.500
+	Pengurangan			= + 167.000
+		Ajuan Rafy 3 Juni:
+		- Sewa zoom bisa dimasukin ga kira"?
+		- nuvo 1 buah -> 6 buah, harga 19.700 -> 30.000
+		= -61.800

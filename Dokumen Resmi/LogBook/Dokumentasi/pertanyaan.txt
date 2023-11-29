@@ -1,0 +1,10 @@
+- Jika kami menggunakan baterai dengan kapasitas 10Ah itu kira" berbahaya ga kalau kami short circuit kan?
+- berapa kali percobaan yang perlu kami lakukan agar metode neural network yang dibutuhkan ini mencukupi
+- Indikator visual thermal runaway itu seperti apa?
+- Saat thermal runaway terjadi peralatan keamanan apa saja yang perlu kami siapkan?
+- Kalau kami ingin menggunakan metode lain yang dapat memicu internal short circuit, ada ga fasilitas yang dapat kami pinjam?
+- Ada ga alat yang bisa kami pinjam?
+- Menurut bapak, metode yang paling cocok untuk memicu thermal runaway apa?
+- Menurut bapak, metode yang paling aman untuk memicu thermal runaway apa?
+- Alat pengukuran suhu kami sekarang ini pas"an untuk mengukur suhunya, apa bapak punya alternatif lain?
+- Alat pengukuran arus kami sekarang ini pas"an untuk mengukur suhunya, apa bapak punya alternatif lain?

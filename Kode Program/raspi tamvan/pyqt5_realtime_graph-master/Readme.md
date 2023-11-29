@@ -1,0 +1,4 @@
+
+# Example Screenshot
+
+![](example.png)

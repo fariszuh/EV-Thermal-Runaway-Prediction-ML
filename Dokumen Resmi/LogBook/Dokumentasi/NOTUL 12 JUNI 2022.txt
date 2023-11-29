@@ -1,0 +1,45 @@
+NOTUL 12 JUNI 2022
+
+1. Timeline
+ - Kejar target monev (target persenan bisa diliat di timeline kalender)
+ - Akhir juni ini selesaikan 25%, sudah mengumpulkan semua data
+ - 25% selanjutnya bikin model dan simulasi
+ - Selama bulan Juli kerjakan model dan simulasi (paling lambat 31 Juli)
+ - Pembuatan alat bisa diparalel dengan perancangan model
+ - Progres analisis di 20% akhir, setelah akusisi data. 
+ - dilaksanakan hybrid
+ - beberapa orang aja offline di masa liburan
+
+2. Bobot
+ - Pengumpulan data 		: 25%
+ - Perancangan model 		: 25%
+ - Pembuatan dan pengujian alat : 25%
+ - Analisis 			: 20%
+ - Publikasi artikel ilmiah 	: 5%
+
+
+3. Studi Literatur
+ - Penyebab thermal runaway secara mekanikal (
+ - Penyebab thermal runaway secara elektrical (penyebabnya short circuit) 
+ - Abuse experiment untuk Li-ion battery:
+   1. Oven test			: butuh alat pemanas khusus 
+   2. Short-circuit test  	: 
+   3. Overcharge test 		: desain charger tanpa cut-off agak sulit
+   4. Nial test 		: butuh alat mekanik
+   5. Crush test 		: butuh alat mekanik
+ - Sensing 3 variabel: 
+   1. Voltage		: probe ditaruh di kedua kutub
+   2. Temperature	: pakai infrared merah
+   3. Current 		: dipasang di kabel
+ - Akuisi data
+ - Dari studi literatur, metode yang digunakan ditentukan
+ - penempatan voltmeter di kapasitor ATAU resistor (perlu diskusi lagi)
+ - Internal short circuit paling umum, dipicu mechanical dan termal abuse
+ - Studi literatur lg untuk tau indikator batasan thermal runawaynya
+ - Saat ini lokasinya di luar ruangan, sensor suhunya agak jauh tapi takutnya terganggu
+ - U/ keamanan perlu pelindung mata
+ - Apinya dibiarin mati
+ - Pakai masker, takut asapnya
+ - Kontaktor masih nyari, kabel hv aman, resistor di genteng, baut" toko keputih, u/ soc pakai alatnya, alat keamanan, enclosure alumunium
+ - Studi lit sampe tgl 16 sementara
+ - Cari Dosen 

@@ -1,0 +1,11 @@
+table: data_collection
+
+1. timestamp
+2. voltage cell (cell no.1-4)
+3. ampere hall (optional)
+4. 4 temperature cell (cell no.1-4) = 16 NTC
+5. charge/discharge condition
+6. charge ke berapa
+7. dischargee ke berapa
+
+total columns: 1+4+1+16+4 = 26 columns
