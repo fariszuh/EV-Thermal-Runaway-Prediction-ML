@@ -48,6 +48,7 @@ Berdasarkan permasalahan tersebut, dapat disimpulkan bahwa harus dilakukan peman
 Gambar 2. Diagram Cara Kerja Alat
 
 Data dikumpulkan dari short circuit untuk data yang tergolong thermal runaway dan discharge baterai untuk non-thermal runaway. Keseluruhan data dibagi menjadi 80% data training dan 20% data testing. Terdapat 2 hidden layer yang dipakai dengan fungsi aktivasinya relu, dan satu output dengan aktivasi linear. Metriks performasi yang ditinjau adalah akurasi dan binary loss entropy. 
+
 <img src="Dokumen Resmi/Dokumentasi Alat/loss_training_per_epoch.png" alt="Grafik loss training setiap epoch" width=400 />
 
 Gambar 3 Grafik loss training setiap epoch
